@@ -1,3 +1,0 @@
-# ExchangeRateApplication
-
-### HELLO WORLD
