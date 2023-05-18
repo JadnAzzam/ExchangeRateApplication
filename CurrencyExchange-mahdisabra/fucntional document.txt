@@ -1,0 +1,7 @@
+Functional requirements for platforms:
+- Users will be able to create an account and log in afterwards.
+-Users will be able to calculate calculate how much an amount of one currency will equal in the other according to today's rate.
+- Users will be be provided with a grapth that will show the flactuation of exchange rate.
+- users will be provided with statistics about the development of exchange rate.
+-Users will be able to perform peer to peer transactions amog each others. 
+_ users will be ablke to view their balances( balanaces will be automatically updated after each accepted transaction)
